@@ -26,5 +26,7 @@ The universe features full collision, with each object type having unqiue collis
 
 The program also features an interface to select what universe to run on startup, as well as giving infomation about the collisions going on, and the data about them.
 
-![Img01](http://i.imgur.com/qFtoS8o.png)
-![Img02](http://i.imgur.com/IGxz53V.png)
+![image one](http://i.imgur.com/qFtoS8o.png)
+![image two](http://i.imgur.com/IGxz53V.png)
+
+
