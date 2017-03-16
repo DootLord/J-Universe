@@ -1,9 +1,3 @@
-Universe -   a project to simulate an alternative, finite universe.
-
-This project was provided to Shaun Porter as a starting point ot the INPROG Java coursework.
-
-You will need to modify and add code as detailed in the coursework specification on Moodle
-
 The world consists of four different types of objects, that act differently and take on different properties depending on their type.
 
 The universe features full collision, with each object type having unqiue collision events depending on the two objects that have collided.
@@ -31,3 +25,6 @@ The universe features full collision, with each object type having unqiue collis
     -If a comet touches the center, it removes the comet from the universe
 
 The program also features an interface to select what universe to run on startup, as well as giving infomation about the collisions going on, and the data about them.
+
+[Img01](http://i.imgur.com/qFtoS8o.png)
+[Img02](http://i.imgur.com/IGxz53V.png)
